@@ -1,4 +1,4 @@
-istema de Controle de Bobinas – We Papel
+Sistema de Controle de Bobinas – We Papel
 
 Sistema full-stack para controle, rastreabilidade e gestão de bobinas de papel.
 Permite cadastrar bobinas, registrar saídas e retornos, acompanhar histórico de movimentações e gerar códigos/QR Code, com interface web responsiva integrada a uma API REST.
